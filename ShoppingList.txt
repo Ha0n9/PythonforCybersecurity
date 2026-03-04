@@ -2,7 +2,6 @@ Milk
 Break
 Bananas
 Eggs
-<<<<<<< HEAD
 Cake
 Cookies
 =======
