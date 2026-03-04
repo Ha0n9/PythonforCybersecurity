@@ -2,5 +2,10 @@ Milk
 Break
 Bananas
 Eggs
+<<<<<<< HEAD
 Cake
 Cookies
+=======
+Bread
+Tomato
+>>>>>>> 717b6e4 (Added Bread and Tomato)
